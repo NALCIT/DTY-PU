@@ -1,0 +1,122 @@
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DTY PU.exe.config
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DTY PU.exe.manifest
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DTY PU.application
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DTY PU.exe
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DTY PU.pdb
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DTY PU.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Utils.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraCharts.v12.2.UI.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraBars.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Utils.v12.2.UI.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraTreeList.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraRichEdit.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraPrinting.v12.2.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.RichEdit.v12.2.Core.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Office.v12.2.Core.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Data.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Utils.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraCharts.v12.2.UI.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraBars.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Utils.v12.2.UI.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraTreeList.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraRichEdit.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.XtraPrinting.v12.2.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.RichEdit.v12.2.Core.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\DevExpress.Office.v12.2.Core.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.Utils.v12.2.UI.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.Utils.v12.2.UI.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.Utils.v12.2.UI.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.Utils.v12.2.UI.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraTreeList.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraTreeList.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.XtraPrinting.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.XtraPrinting.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.XtraPrinting.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.XtraPrinting.v12.2.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.RichEdit.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.RichEdit.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.RichEdit.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.RichEdit.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\de\DevExpress.Office.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\es\DevExpress.Office.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ja\DevExpress.Office.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\bin\Debug\ru\DevExpress.Office.v12.2.Core.resources.dll
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY_PU.FormDTYPU.resources
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY_PU.Resources.resources
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.vbproj.GenerateResource.cache
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.exe.licenses
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.vbproj.CoreCompileInputs.cache
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.exe.manifest
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.application
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.vbproj.CopyComplete
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.exe
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.xml
+C:\Users\chuang\Documents\Visual Studio 2017\Projects\DTY PU\DTY PU\obj\Release\DTY PU.pdb

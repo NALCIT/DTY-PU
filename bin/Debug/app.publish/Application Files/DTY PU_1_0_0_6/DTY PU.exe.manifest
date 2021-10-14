@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DTY PU.exe" version="1.0.0.6" publicKeyToken="14a61b6b4f56ec9b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\ASPxScheduler.png.ico" asmv2:publisher="NALC" asmv2:product="DTY PU Viewer" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DTY PU" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DTY PU.exe" parameters="" />
+  </entryPoint>
+  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.Entity" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Charts.v12.2.Core.dll" size="264720">
+      <assemblyIdentity name="DevExpress.Charts.v12.2.Core" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>C84aZqvS2uqIpLiBiQxYIR125bk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Data.v12.2.dll" size="3058192">
+      <assemblyIdentity name="DevExpress.Data.v12.2" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bWjKbLY2TPJlLkRBJ5bEqB/okf8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Utils.v12.2.dll" size="3772432">
+      <assemblyIdentity name="DevExpress.Utils.v12.2" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l4CEunVFvZo5c6MgHwCgiO1tLsE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Utils.v12.2.UI.dll" size="180752">
+      <assemblyIdentity name="DevExpress.Utils.v12.2.UI" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>XftPoZ0uGxZd7+6yrdQuh4F2BXc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.XtraCharts.v12.2.dll" size="3468304">
+      <assemblyIdentity name="DevExpress.XtraCharts.v12.2" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>cruA24Up8o6MwI2gx5S/2VB4vwU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.XtraCharts.v12.2.UI.dll" size="183824">
+      <assemblyIdentity name="DevExpress.XtraCharts.v12.2.UI" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>f2d//v++jTPo4ckN20rtpz2ilgA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.XtraCharts.v12.2.Wizard.dll" size="4214288">
+      <assemblyIdentity name="DevExpress.XtraCharts.v12.2.Wizard" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>30S09Na++z9KHJebM+w2hDs+6gY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.XtraEditors.v12.2.dll" size="2421776">
+      <assemblyIdentity name="DevExpress.XtraEditors.v12.2" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>D4OZlIN6a4ZYi0rqtVRzX2Z4mk8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.XtraGrid.v12.2.dll" size="2235408">
+      <assemblyIdentity name="DevExpress.XtraGrid.v12.2" version="12.2.18.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>y+d76R2wvFo7CqUafbFi45BAg3c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DTY PU.exe" size="1171328">
+      <assemblyIdentity name="DTY PU" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>WzUr3znhM/F+QQCYyTZOUzGv9F8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DTY PU.exe.config" size="1319">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7n+2Nd5izqhg03P9VgXEGGLHEOo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\ASPxScheduler.png.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PBqR/aY1nOjePFapc3cafgeu5Y0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\RepeatHS.png" size="645">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/6msVqEu/+V35yQwvZIUY+pg+kM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=FUHQ\chuang" issuerKeyHash="e64dc2320f35e8d07f10adcc2f7ab67a21fd625b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>l7LuC3eH/T2SYCjIgd7nkWwPecU=</DigestValue></Reference></SignedInfo><SignatureValue>JZl0e1JDtHROQleBRnukqEXRFU/K6PJSxwTqALRSVtEKfmC1W9VBC6gQHKo0c0Tlr8WQmG1C0c5nyWGxXDrU9glJu6VKlfxJRNJhXKClTDVVyfIGPuoqanveXo51HtbKdyqon3BRNAV9iZ5xRs42iqsq1U/F0dI0M9s+ihqrQvk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r01fCRJYhz/DcBveI5KfqqSrrSuDPBvwFILCIFPzl1xF30TExz4gA7i3tme94Dg7YB0gfsTEE3Lc7CtdmEQgyLKAZ8NKHfeHIOVX3+rQ9k68lRoXnmdLK7L7o6Cj6JItV457fATdnFgNwLj3z62YpD9adHn1J2f81e7Y5OYYwPE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c5790f6c91e7de81c82860923dfd87770beeb297" Description="" Url=""><as:assemblyIdentity name="DTY PU.exe" version="1.0.0.6" publicKeyToken="14a61b6b4f56ec9b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=FUHQ\chuang</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>0Ub58KXwAGo0UElgGLXV1eDYGJU=</DigestValue></Reference></SignedInfo><SignatureValue>V/wfbIzVIvyC5oohzmw18rVrfTZHoY6xKLJ8w6mVXU+FCg3T5IXkLxlKUv+045BJ+AkRwyIqv6W/beUQ1SSSqH4E6wEYkEENpJG5XQxF0bkmA+CaJmChebVFaTpkWD8X7MFRfkCN2f9xG/KLIh8i9IHOZc4+MD7/9NbH5qZup9Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r01fCRJYhz/DcBveI5KfqqSrrSuDPBvwFILCIFPzl1xF30TExz4gA7i3tme94Dg7YB0gfsTEE3Lc7CtdmEQgyLKAZ8NKHfeHIOVX3+rQ9k68lRoXnmdLK7L7o6Cj6JItV457fATdnFgNwLj3z62YpD9adHn1J2f81e7Y5OYYwPE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQGaZN3iU3CphB/eXuxf9vljANBgkqhkiG9w0BAQUFADAhMR8wHQYDVQQDHhYARgBVAEgAUQBcAGMAaAB1AGEAbgBnMB4XDTIwMTIyOTE1NTUzMloXDTIxMTIyOTIxNTUzMlowITEfMB0GA1UEAx4WAEYAVQBIAFEAXABjAGgAdQBhAG4AZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAr01fCRJYhz/DcBveI5KfqqSrrSuDPBvwFILCIFPzl1xF30TExz4gA7i3tme94Dg7YB0gfsTEE3Lc7CtdmEQgyLKAZ8NKHfeHIOVX3+rQ9k68lRoXnmdLK7L7o6Cj6JItV457fATdnFgNwLj3z62YpD9adHn1J2f81e7Y5OYYwPECAwEAATANBgkqhkiG9w0BAQUFAAOBgQB6HioBvQ62AHs3gkFd3mmob1XIdpFT65XAQZjRjl/wqlswG1hGRFlfNmu2qlrNO77PCLOmkrAj6P2yU8eIhYK9QTNZIuTq6p2kxxirs7mVIxvRgyM4lwPXWO5G1s8BGpzQ6gGtZKe3MQN8w6Gka7A8K2VGtirmhRx57rcFRuJGlA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
